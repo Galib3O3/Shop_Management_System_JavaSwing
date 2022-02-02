@@ -18,10 +18,16 @@
  <h1>View</h1>
  <h2>-Login</h2>
  ![login](https://user-images.githubusercontent.com/77722359/152192316-8d72282e-0556-46a6-b3d1-f0e5d018cb3b.JPG)
+ 
  ![register](https://user-images.githubusercontent.com/77722359/152192561-99851528-e842-46c4-85ad-ea549a3addde.JPG)
+ 
 ![management](https://user-images.githubusercontent.com/77722359/152192687-51b1baa0-868c-473a-9a43-95f521350132.JPG)
+
+
 ![Admin](https://user-images.githubusercontent.com/77722359/152192785-0ac82f41-a877-4e55-a3be-edabec6e3373.JPG)
+
 ![sales](https://user-images.githubusercontent.com/77722359/152192837-eb17e063-cec4-49ee-a3d5-1b68458aed88.JPG)
+
  
   <h2>Database</h2>
   
