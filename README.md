@@ -16,7 +16,10 @@
  - Tools: IntelliJ IDEA.
  
  <h1>View</h1>
+ 
  ![login](https://user-images.githubusercontent.com/77722359/152192316-8d72282e-0556-46a6-b3d1-f0e5d018cb3b.JPG)
+ 
+ 
  
  ![register](https://user-images.githubusercontent.com/77722359/152192561-99851528-e842-46c4-85ad-ea549a3addde.JPG)
  
@@ -37,4 +40,6 @@
 
 
 ![Cocacola](https://user-images.githubusercontent.com/77722359/152192946-c3f9824b-f8f2-4a53-9d85-b0a4d24c7062.JPG)
+
+<h2 align ="center">file:///C:/Users/Unique-pc/Downloads/gggrrr/galib/index.html</h2>
 <h3 align="center">© Team RAGNAROK(SOLO)</h3>
