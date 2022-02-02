@@ -15,5 +15,10 @@
 - Database: Xampp,MySQL.
  - Tools: IntelliJ IDEA.
  
+ <h1>View</h1>
+ <h4>-Login</h4>
+ ![login](https://user-images.githubusercontent.com/77722359/152191602-71155c88-8627-4505-b51e-a18c6243bfee.JPG)
+ 
+
 
 <h3 align="center">© Team RAGNAROK(SOLO)</h3>
