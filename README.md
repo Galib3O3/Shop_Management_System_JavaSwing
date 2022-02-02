@@ -6,8 +6,8 @@
 - Md. Asadullah-Al-Galib 
 
 <h1>Work</h1>
-#### Backend,UI,DataBase
-####  ALL credits Md.Asadullah-Al-Galib
+ Backend,UI,DataBase
+ ALL credits Md.Asadullah-Al-Galib
 
 <h1> Language and Tools </h1>
 
