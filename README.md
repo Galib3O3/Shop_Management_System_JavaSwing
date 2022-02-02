@@ -16,9 +16,28 @@
  - Tools: IntelliJ IDEA.
  
  <h1>View</h1>
- <h4>-Login</h4>
- ![login](https://user-images.githubusercontent.com/77722359/152191602-71155c88-8627-4505-b51e-a18c6243bfee.JPG)
+ <h2>-Login</h2>
+ ![login](https://user-images.githubusercontent.com/77722359/152192316-8d72282e-0556-46a6-b3d1-f0e5d018cb3b.JPG)
  
+ <h2>Register</h2>
+ ![register](https://user-images.githubusercontent.com/77722359/152192561-99851528-e842-46c4-85ad-ea549a3addde.JPG)
+ 
+ <h2>Shop Management</h2>
+![management](https://user-images.githubusercontent.com/77722359/152192687-51b1baa0-868c-473a-9a43-95f521350132.JPG)
+
+ <h2>Admin</h2>
+![Admin](https://user-images.githubusercontent.com/77722359/152192785-0ac82f41-a877-4e55-a3be-edabec6e3373.JPG)
+
+ <h2>Slaes Details</h2>
+ ![sales](https://user-images.githubusercontent.com/77722359/152192837-eb17e063-cec4-49ee-a3d5-1b68458aed88.JPG)
+ 
+  <h2>Database</h2>
+  
+![database](https://user-images.githubusercontent.com/77722359/152192895-cfdafb79-b8b4-428a-a4c4-81790d409b35.JPG)
+
+![regg](https://user-images.githubusercontent.com/77722359/152192929-ff8202ba-2f91-4c65-b415-b38d8d1745b0.JPG)
 
 
+
+![Cocacola](https://user-images.githubusercontent.com/77722359/152192946-c3f9824b-f8f2-4a53-9d85-b0a4d24c7062.JPG)
 <h3 align="center">© Team RAGNAROK(SOLO)</h3>
