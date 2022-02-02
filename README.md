@@ -16,7 +16,6 @@
  - Tools: IntelliJ IDEA.
  
  <h1>View</h1>
- <h2>-Login</h2>
  ![login](https://user-images.githubusercontent.com/77722359/152192316-8d72282e-0556-46a6-b3d1-f0e5d018cb3b.JPG)
  
  ![register](https://user-images.githubusercontent.com/77722359/152192561-99851528-e842-46c4-85ad-ea549a3addde.JPG)
