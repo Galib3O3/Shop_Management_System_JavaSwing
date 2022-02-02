@@ -15,7 +15,5 @@
 - Database: Xampp,MySQL.
  - Tools: IntelliJ IDEA.
  
-<h1> Project View</h1>
-
 
 <h3 align="center">© Team RAGNAROK(SOLO)</h3>
