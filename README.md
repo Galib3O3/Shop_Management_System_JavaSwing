@@ -1,4 +1,4 @@
-  <h1 align="center"> Project : Shop Invernoty System </h1>
+  <h1 align="center"> Project : Shop Management System </h1>
 <h4 align="center"> Subject: Java Programming (CSE-3318) </h4>
 
 <h1> Team RAGNAROK(SOLO)</h1> 
