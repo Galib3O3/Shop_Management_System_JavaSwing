@@ -18,4 +18,4 @@
 <h1> Project View</h1>
 
 
-<h3 align="center">Â© Team RAGNAROK(SOLO)</h3>
+<h3 align="center">© Team RAGNAROK(SOLO)</h3>
